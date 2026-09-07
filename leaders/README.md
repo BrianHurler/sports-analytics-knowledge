@@ -13,6 +13,7 @@ The purpose is not biography for its own sake. Each profile is intended to answe
 - [Luke Bornn](luke-bornn.md) — player tracking, spatial analytics, expected possession value, Bayesian models, metric evaluation, forecasting, decision processes, and applications across basketball, soccer, and hockey.
 - [Eric Tulsky](eric-tulsky.md) — hockey measurement design, contextual player evaluation, repeatability, zone-entry and neutral-zone analytics, state decomposition, draft-market analysis, and decision-focused research.
 - [Sunny Mehta](sunny-mehta.md) — measurement bias, contextual expectation, signal-versus-noise thinking, player projection, expected value, risk, optionality, and front-office decision-making under uncertainty.
+- [Sam Ventura](sam-ventura.md) — open hockey data infrastructure, expected-goals development, predictive validation, contextual player evaluation, prospect projection, tracking data, and NHL decision-support systems.
 
 ## Profile template
 
