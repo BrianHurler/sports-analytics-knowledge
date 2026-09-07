@@ -35,6 +35,12 @@ For each method, five questions matter repeatedly:
 
 See the full [competency map](competency-map.md).
 
+## Sports analytics leaders
+
+The [Sports Analytics Leaders](leaders/README.md) section studies influential researchers and practitioners through their actual body of work, with each paper or project connected back to the seven pillars.
+
+- [Luke Bornn](leaders/luke-bornn.md) — player tracking, spatial analytics, expected possession value, Bayesian models, metric evaluation, forecasting, decision processes, and applications across basketball, soccer, and hockey.
+
 ## How the pieces fit together
 
 A useful way to think about advanced sports analytics is:
@@ -52,6 +58,7 @@ In ice hockey, the same progression could move from shot rates, to expected goal
 - `workflows/` — how analytical work moves from question to research to production
 - `projects/` — templates for applied studies
 - `model-defense/` — questions for testing whether a method is truly understood
+- `leaders/` — research-driven profiles of influential sports analytics leaders
 - `glossary.md` — concise definitions
 
 ## Applied examples
