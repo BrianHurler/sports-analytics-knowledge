@@ -37,9 +37,7 @@ See the full [competency map](competency-map.md).
 
 ## Sports analytics leaders
 
-The [Sports Analytics Leaders](leaders/README.md) section studies influential researchers and practitioners through their actual body of work, with each paper or project connected back to the seven pillars.
-
-- [Luke Bornn](leaders/luke-bornn.md) — player tracking, spatial analytics, expected possession value, Bayesian models, metric evaluation, forecasting, decision processes, and applications across basketball, soccer, and hockey.
+The [Sports Analytics Leaders](leaders/README.md) section studies influential researchers and practitioners through their actual body of work, with papers, projects, methods, and analytical philosophies connected back to the seven pillars.
 
 ## How the pieces fit together
 
